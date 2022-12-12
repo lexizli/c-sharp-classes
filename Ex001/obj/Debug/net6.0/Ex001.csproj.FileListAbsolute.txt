@@ -1,0 +1,15 @@
+/Users/aleksejlitvinov/Desktop/GB_C#_classes/Examples/Ex001/bin/Debug/net6.0/Ex001
+/Users/aleksejlitvinov/Desktop/GB_C#_classes/Examples/Ex001/bin/Debug/net6.0/Ex001.deps.json
+/Users/aleksejlitvinov/Desktop/GB_C#_classes/Examples/Ex001/bin/Debug/net6.0/Ex001.runtimeconfig.json
+/Users/aleksejlitvinov/Desktop/GB_C#_classes/Examples/Ex001/bin/Debug/net6.0/Ex001.dll
+/Users/aleksejlitvinov/Desktop/GB_C#_classes/Examples/Ex001/bin/Debug/net6.0/Ex001.pdb
+/Users/aleksejlitvinov/Desktop/GB_C#_classes/Examples/Ex001/obj/Debug/net6.0/Ex001.csproj.AssemblyReference.cache
+/Users/aleksejlitvinov/Desktop/GB_C#_classes/Examples/Ex001/obj/Debug/net6.0/Ex001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejlitvinov/Desktop/GB_C#_classes/Examples/Ex001/obj/Debug/net6.0/Ex001.AssemblyInfoInputs.cache
+/Users/aleksejlitvinov/Desktop/GB_C#_classes/Examples/Ex001/obj/Debug/net6.0/Ex001.AssemblyInfo.cs
+/Users/aleksejlitvinov/Desktop/GB_C#_classes/Examples/Ex001/obj/Debug/net6.0/Ex001.csproj.CoreCompileInputs.cache
+/Users/aleksejlitvinov/Desktop/GB_C#_classes/Examples/Ex001/obj/Debug/net6.0/Ex001.dll
+/Users/aleksejlitvinov/Desktop/GB_C#_classes/Examples/Ex001/obj/Debug/net6.0/refint/Ex001.dll
+/Users/aleksejlitvinov/Desktop/GB_C#_classes/Examples/Ex001/obj/Debug/net6.0/Ex001.pdb
+/Users/aleksejlitvinov/Desktop/GB_C#_classes/Examples/Ex001/obj/Debug/net6.0/Ex001.genruntimeconfig.cache
+/Users/aleksejlitvinov/Desktop/GB_C#_classes/Examples/Ex001/obj/Debug/net6.0/ref/Ex001.dll
