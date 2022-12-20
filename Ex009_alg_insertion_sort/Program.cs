@@ -5,7 +5,7 @@ void FillArray(int[] inArray)
     int index = 0;
     while (index < length)
     {
-        inArray[index] = new Random().Next(0,987);
+        inArray[index] = new Random().Next(0, 987);
         index++;
     }
 }
@@ -28,22 +28,18 @@ void SortInsertionArray(int[] inArray)
     int i = 0, j = 0;
     for (j = 1; j < length; j++)
     {
-        Console.WriteLine(j);
+        Console.Write(j);
         key = inArray[j];
-        Console.WriteLine("32 " + key);
-        i = j-1;
-        Console.WriteLine(i);
-        if (inArray[i] > key)  {
-            inArray[i+1] = inArray[i];
-            inArray[i] = key;
-        }
-        while ( (i > 0) & (inArray[i] > key) )
+        i = j - 1;
+
+        while ((i >= 0) && (inArray[i] > key))
         {
-            inArray[i+1] = inArray[i];
-            inArray[i] = key;
+            inArray[i + 1] = inArray[i];
+            //     inArray[i] = key;
             i = i - 1;
-      //      inArray[i] = key;
-        } 
+            
+        }
+        inArray[i + 1] = key;
     }
 
 }
@@ -51,7 +47,7 @@ void SortInsertionArray(int[] inArray)
 
 // Console.Clear();
 
-int[] arr = new int[6];
+int[] arr = new int[28];
 FillArray(arr);
 Console.WriteLine();
 Console.WriteLine();
